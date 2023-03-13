@@ -399,8 +399,8 @@
       <div class="row">
         <div class="col-sm-12">
           <p class="copyright_text">
-            © 2020 All Rights Reserved.<a href="https://html.design">
-              Free html Templates</a
+            © 2020 All Rights Reserved.<a href="#">
+              Abdallah</a
             >
           </p>
         </div>
